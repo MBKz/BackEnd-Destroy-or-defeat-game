@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "rocket Tank ",
+    "Type": "Tank",
+    "Priority": "Damage",
+    "Price": 500,
+    "TypeForce": 1,
+    "Coordinates": {
+      "x": 100,
+      "y": 205,
+      "radios": 10
+    },
+    "CoordinatesBase": {
+      "x": 140,
+      "y": 140,
+      "radios": 50
+    },
+    "CanTarget": [
+      "Plan"
+    ],
+    "AttackInformation": {
+      "Health": 1000,
+      "Armor": 9.0,
+      "Speed": 0,
+      "UnitRange": 15,
+      "AttackSpeed": 1.0,
+      "AttackDamage": 500
+    }
+  }
+]

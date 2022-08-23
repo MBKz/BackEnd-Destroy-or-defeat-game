@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "base",
+    "Type": "base",
+    "Price": 2,
+    "Coordinates": {
+      "x": 100,
+      "y": 100,
+      "radios": 50
+    },
+    "AttackInformation": {
+      "Health": 10000,
+      "Armor": 0.00
+    }
+  }
+]

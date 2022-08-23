@@ -1,0 +1,30 @@
+[
+  {
+  "Name": "Tesla tank ",
+  "Type": "Tank",
+  "Priority": "Damage",
+  "Price": 100,
+  "TypeForce": 1,
+  "Coordinates": {
+    "x": 50,
+    "y": 350,
+    "radios": 20
+  },
+  "CoordinatesBase": {
+    "x": 100,
+    "y": 100,
+    "radios": 50
+  },
+  "CanTarget": [
+    "base","bridge","Soldier","Tank"
+  ],
+  "AttackInformation": {
+    "Health": 1000,
+    "Armor": 9.0,
+    "Speed": 4,
+    "UnitRange": 20,
+    "AttackSpeed": 1.0,
+    "AttackDamage": 500
+  }
+}
+]

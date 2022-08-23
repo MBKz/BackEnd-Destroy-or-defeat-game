@@ -1,0 +1,64 @@
+19:34:50.900	Units.ReadFile@7ef20235	3.506888	MB
+19:34:50.900	name= Base | position= (100,100) : 101 : 101 | Health=10000	4.657792	MB
+19:34:50.900	Units.ReadFile@5ef04b5	4.657792	MB
+19:34:50.900	name= Vally | position= (100,250) : 300 : 5	5.119176	MB
+19:34:50.900	name= Vally | position= (100,250) : 300 : 5	5.119176	MB
+19:34:50.900	name= river | position= (0,260) : 300 : 5	5.119176	MB
+19:34:50.900	name= river | position= (0,260) : 300 : 5	5.119176	MB
+19:34:50.900	GameEnv.Player@5b37e0d2	5.119176	MB
+19:34:50.900	attacker: name= Tesla Tank  | position= (100,270) : 41 : 41 | Health=1000	115.508144	MB
+19:34:50.900	attacker: name= Tesla Tank 1 | position= (100,270) : 41 : 41 | Health=1000	115.508144	MB
+19:34:50.900	attacker: name= Black Eagle  | position= (100,270) : 41 : 41 | Health=1000	115.508144	MB
+19:34:50.900	GameEnv.Player@bebdb06	115.508144	MB
+19:34:50.900	defender: name= rocket Tank  | position= (100,205) : 21 : 21 | Health=1000	115.508144	MB
+19:34:50.900	Thread[Thread-0,5,main]	115.508144	MB
+19:34:50.900	The End ( total size allocated ):  	210.477216	MB
+19:34:50.900	Units.ReadFile@3feba861	3.49236	MB
+19:34:50.900	name= base | position= (100,100) : 101 : 101 | Health=10000	4.659048	MB
+19:34:50.900	Units.ReadFile@5a2e4553	4.659048	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.161408	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.161408	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.161408	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.161408	MB
+19:34:50.900	GameEnv.Player@45ff54e6	5.161408	MB
+19:34:50.900	attacker: name= Tesla tank  | position= (50,350) : 41 : 41 | Health=1000	118.196456	MB
+19:34:50.900	GameEnv.Player@736e9adb	118.196456	MB
+19:34:50.900	defender: name= rocket Tank  | position= (100,205) : 21 : 21 | Health=1000	118.196456	MB
+19:34:50.900	Thread[Thread-0,5,main]	118.196456	MB
+19:34:50.900	Units.ReadFile@3feba861	3.483432	MB
+19:34:50.900	name= base | position= (100,100) : 101 : 101 | Health=10000	4.657776	MB
+19:34:50.900	Units.ReadFile@5a2e4553	4.657776	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.127352	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.127352	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.127352	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.127352	MB
+19:34:50.900	GameEnv.Player@45ff54e6	5.127352	MB
+19:34:50.900	attacker: name= Tesla tank  | position= (50,350) : 41 : 41 | Health=1000	118.154576	MB
+19:34:50.900	GameEnv.Player@736e9adb	118.154576	MB
+19:34:50.900	defender: name= rocket Tank  | position= (100,205) : 21 : 21 | Health=1000	118.154576	MB
+19:34:50.900	Thread[Thread-0,5,main]	118.154576	MB
+19:34:50.900	Units.ReadFile@3feba861	3.487752	MB
+19:34:50.900	name= base | position= (100,100) : 101 : 101 | Health=10000	4.657768	MB
+19:34:50.900	Units.ReadFile@5a2e4553	4.657768	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.119192	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.119192	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.119192	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.119192	MB
+19:34:50.900	GameEnv.Player@45ff54e6	5.119192	MB
+19:34:50.900	attacker: name= Tesla tank  | position= (50,350) : 41 : 41 | Health=1000	118.957288	MB
+19:34:50.900	GameEnv.Player@736e9adb	118.957288	MB
+19:34:50.900	defender: name= rocket Tank  | position= (100,205) : 21 : 21 | Health=1000	118.957288	MB
+19:34:50.900	Thread[Thread-0,5,main]	118.957288	MB
+19:34:50.900	The End ( total size allocated ):  	190.251552	MB
+19:34:50.900	Units.ReadFile@3feba861	3.483432	MB
+19:34:50.900	name= base | position= (100,100) : 101 : 101 | Health=10000	4.657776	MB
+19:34:50.900	Units.ReadFile@5a2e4553	4.657776	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.127352	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.127352	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.127352	MB
+19:34:50.900	name= river | position= (0,250) : 1000 : 40	5.127352	MB
+19:34:50.900	GameEnv.Player@45ff54e6	5.127352	MB
+19:34:50.900	attacker: name= Tesla tank  | position= (50,350) : 41 : 41 | Health=1000	115.665416	MB
+19:34:50.900	GameEnv.Player@736e9adb	115.665416	MB
+19:34:50.900	defender: name= rocket Tank  | position= (100,205) : 21 : 21 | Health=1000	115.665416	MB
+19:34:50.900	Thread[Thread-0,5,main]	115.665416	MB

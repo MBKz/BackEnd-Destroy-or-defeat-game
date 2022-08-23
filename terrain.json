@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "river",
+    "Type": "terrain",
+    "Price": 10,
+    "Coordinates": {
+      "x": 0,
+      "y": 250,
+      "height": 1000,
+      "width": 40
+    },
+    "SpeedDown": 0.25
+  }  {
+  "Name": "river",
+  "Type": "terrain",
+  "Price": 10,
+  "Coordinates": {
+    "x": 0,
+    "y": 250,
+    "height": 1000,
+    "width": 40
+  },
+  "SpeedDown": 0.25
+}
+
+]
